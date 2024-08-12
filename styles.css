@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: 900;
+}
+
+strong {
+    color: orange;
+    font-size: 60px;
+    font-weight: 900;
+}
+
+nav{
+    margin-top: 0;
+}
+
+.endereco{
+    display: inline;
+    text-decoration: none;
+    color: orange;
+}
+
+.menu {
+    background-color: orange;
+    text-align: center;
+    width: 20vw;
+    height: 100vh;
+    float: left; 
+    padding: 270px 0;
+
+}
+.perfil {
+    border: 1px solid black;
+    border-radius: 100%;
+    width: 230px;
+    height: 230px;
+}
+
+.logo {
+    border: 1px solid rgb(255, 61, 13);
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+}
+.dados {
+    width: 65vw;
+    height: 100vh;
+    float: left;
+    padding: 290px 60px;
+}
+
+.conhecimentos {
+    width: 65vw;
+    height: 100vh;
+    float: left;
+    padding: 250px 50px;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+.objetivos {
+    width: 65vw;
+    height: 100vh;
+    float: left;
+    padding: 300px 50px;
+    font-size: 50px;
+}
+.link {
+    margin-top: 30px;
+}
+
+.link-dados {
+    display: inline;
+    padding: 30px 30px 0 0;
+}
+
+.menu ,a {
+    text-decoration: none;
+    display: block;
+    margin-top: 20px;
+    color: rgb(0, 26, 44);
+    font-size: 25px;
+}
+ a:hover {
+    color: yellow;
+ }
+
+ .filho {
+    margin-bottom: 50px;
+ }
+
+ .social {
+    margin-top: 50px;
+ }
+
+ h3 {
+    font-size: 24px;
+ }
+
+ .titulo-lista {
+    margin-bottom: 30px;
+    font-size: 60px;
+ }
