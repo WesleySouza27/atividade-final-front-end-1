@@ -2,4 +2,4 @@
 ## são três paginas html e um arquivo css
 
 ### pagina sobre
-![tela sobre](/assets/sobre.png)
+![tela sobre](/assets/sobre.jpeg)
