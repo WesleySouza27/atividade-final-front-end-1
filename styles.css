@@ -20,7 +20,7 @@ strong {
     font-weight: 900;
 }
 
-nav{
+nav {
     margin-top: 0;
 }
 
@@ -37,7 +37,6 @@ nav{
     height: 100vh;
     float: left; 
     padding: 270px 0;
-
 }
 .perfil {
     border: 1px solid black;
